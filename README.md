@@ -1,0 +1,1 @@
+# Curso de pip y entornos virtuales con python de platzi
